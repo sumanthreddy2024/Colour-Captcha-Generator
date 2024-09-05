@@ -48,3 +48,6 @@ def main():
     colored_pattern = colorize_pattern(pattern)
     print(colored_pattern)
 
+
+if __name__ == "__main__":
+    main()
